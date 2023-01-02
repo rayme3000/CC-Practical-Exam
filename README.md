@@ -6,9 +6,7 @@
 - Building a Virtual Machine (VM) in Azure
 - Remoting into our VM with RDP and browsing the internet
 - Logging out and deleting our VM from our Azure Subscription
-<p>**This demonstration assumes prior knowledge of setting up an Azure Subscription.
-  <br>
-  Please visit www.azure.microsoft.com/en-us/free to learn more.**</p>
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -24,20 +22,30 @@
 
 https://user-images.githubusercontent.com/59034949/210266456-23011427-b280-44c6-b935-228febdc140f.mp4
 
-Create a New Resource Group (RG)
+**This demonstration assumes prior knowledge of setting up an Azure Subscription.
+  <br>
+  Please visit www.azure.microsoft.com/en-us/free to learn more.
 </p>
 <br />
 
 
+https://user-images.githubusercontent.com/59034949/210270478-6f4ab95b-c1bf-4be2-b242-d0ab66ad9fbc.mp4
+
+
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ **Be sure to remember the username and password you set, as it will be required to sign into your VM later. <br>
+**When choosing the size of your VM, note that the more VCPUs and the larger the memory (Gib) you choose will increase both the performance and cost to run your VM. Choose accordingly.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+
+https://user-images.githubusercontent.com/59034949/210272117-bdd5060f-3cb4-43a8-af35-8ba587a6db74.mp4
+
+
+
+**If you need to return to your local computer during a remote session, hover the cursor at the top of the screen, and the option to minimize screen will appear. 
 </p>
 <br />
